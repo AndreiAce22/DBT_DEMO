@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "yy861.us1.dbt.com"
+  active-project: "70506183172905"
+projects:
+  - project-name: "DataEngineering"
+    project-id: "70506183172905"
+    account-name: "77"
+    account-id: "70506183169256"
+    account-host: "yy861.us1.dbt.com"
+    token-name: "cloud-cli-7768"
+    token-value: "dbtu_-Kitk9EI4p34HcFHenMFWaKyKB5C1R-mkzp6VkOx3Gvcd6nui8"
+
+
