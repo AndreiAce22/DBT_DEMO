@@ -2,8 +2,9 @@ version: 2
 
 sources:
   - name: demo
-    database: DEMO
+    database: demo
     schema: demo_schema
     tables:
       - name: bike
       - name: weather
+      
